@@ -3,3 +3,8 @@
 
 # Hello World
 ### js is everywhere
+
+- typescript
+- webpack
+- nodejs
+- react
